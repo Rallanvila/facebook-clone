@@ -172,7 +172,7 @@ header {
     display: flex;
 }
 .sidenav{
-    width: 2
+    width: 25%;
 }
 .sidenav__item{
     display: flex;
